@@ -1,8 +1,10 @@
 # Welikolepie
-## Poetry... in JSON...
+## Poetry... in JSON.
 
- All writers in writers/ folder.
- All data in JSON
+ All writers in```writers/``` folder.
+ 
+ All data in JSON format.
+ 
  Structure: 
  ```
  {
